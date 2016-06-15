@@ -24,7 +24,7 @@ public class Zork {
 			case 1:
 				foyer();
 				response = scan.next();
-				if (response.equals("Q")) {
+				if (response.toUpperCase().equals("Q")) {
 					goPlaces = false;
 				} else {
 					intR = Integer.parseInt(response);
