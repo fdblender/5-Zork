@@ -315,8 +315,13 @@ public class Zork {
 				System.out.println(line);
 			}
 			br.close();
+			
+			// practice exception handling *** REMOVE ***
+			//throw new IOException();
+			
 		} catch (IOException e) {
 			e.getMessage();
+			System.out.println("Error: IOException");
 		} catch (Exception e) {
 			System.out.println("Error: General Exception");
 		}
