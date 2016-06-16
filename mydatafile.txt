@@ -1,0 +1,15 @@
+Foyer 44
+Front Room 49
+Library 55
+Foyer 7
+Foyer 80
+Front Room 43
+Kitchen 9
+Parlor 89
+Vault 45
+Parlor 89
+Kitchen 9
+Front Room 43
+Library 4
+Front Room 43
+Foyer 80
